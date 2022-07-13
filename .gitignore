@@ -1,0 +1,5 @@
+.new-manifest.ps1
+/bin/Debug
+/obj
+/start-debug.ps1
+/build.ps1
